@@ -28,6 +28,13 @@ public class LocationResource {
         throw new NotImplementedYetException();
     }
 
+    @PUT
+    @Path("UpdateLocation/?={locationId}?={locationTitle}?={locationImgLink}?={locationStory}")
+    public Location updateLocation(int locationId, String locationTitle, String locationImgLink,
+                                   String locationStory) {
+        throw new NotImplementedYetException();
+    }
+
     @POST
     @Path("Add/?={locationTitle}?={locationImgLink}?={locationStory}")
     public String addLocation(String locationTitle, String locationImgLink, String locationStory) {
