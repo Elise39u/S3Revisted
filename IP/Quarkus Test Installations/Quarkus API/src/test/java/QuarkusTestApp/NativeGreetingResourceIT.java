@@ -1,4 +1,4 @@
-package org.DprojectArtifactId=QuarkusTestApp;
+package QuarkusTestApp;
 
 import io.quarkus.test.junit.NativeImageTest;
 

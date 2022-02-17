@@ -1,4 +1,4 @@
-package org.DprojectArtifactId=QuarkusTestApp;
+package QuarkusTestApp;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
