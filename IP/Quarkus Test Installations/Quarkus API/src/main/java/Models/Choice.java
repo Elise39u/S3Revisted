@@ -1,4 +1,4 @@
-package Choice;
+package Models;
 
 public class Choice {
     private int id;

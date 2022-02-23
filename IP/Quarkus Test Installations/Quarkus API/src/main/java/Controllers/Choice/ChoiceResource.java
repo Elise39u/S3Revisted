@@ -1,5 +1,6 @@
-package Choice;
+package Controllers.Choice;
 
+import Models.Choice;
 import org.jboss.resteasy.spi.NotImplementedYetException;
 
 import javax.ws.rs.DELETE;
@@ -12,6 +13,7 @@ import javax.ws.rs.core.MediaType;
 import java.util.List;
 
 @Path("/Choice")
+@Produces(MediaType.APPLICATION_JSON)
 public class ChoiceResource {
 
     @GET

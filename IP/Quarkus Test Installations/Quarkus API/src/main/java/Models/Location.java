@@ -1,6 +1,6 @@
-package Location;
+package Models;
 
-import Choice.Choice;
+import Models.Choice;
 import org.jboss.resteasy.spi.NotImplementedYetException;
 
 import java.util.List;

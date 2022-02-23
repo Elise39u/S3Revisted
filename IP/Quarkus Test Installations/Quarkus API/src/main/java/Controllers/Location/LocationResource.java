@@ -1,6 +1,8 @@
-package Location;
+package Controllers.Location;
 
-import Choice.Choice;
+import Models.Choice;
+import Models.Location;
+
 import org.jboss.resteasy.spi.NotImplementedYetException;
 
 import javax.ws.rs.DELETE;
@@ -14,6 +16,7 @@ import java.util.List;
 
 
 @Path("/Location")
+@Produces(MediaType.APPLICATION_JSON)
 public class LocationResource {
 
     @GET
