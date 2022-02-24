@@ -20,7 +20,7 @@ steps:
   
 - task: Maven@3
   inputs:
-    mavenPomFile: '/IP/Quarkus Test Installations/Quarkus API/pom.xml'
+    mavenPomFile: 'S3Revisted/IP/Quarkus Test Installations/Quarkus API/pom.xml'
     publishJUnitResults: true
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     javaHomeOption: 'JDKVersion'
