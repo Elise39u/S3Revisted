@@ -32,11 +32,19 @@ public class Location {
         throw new NotImplementedYetException();
     }
 
-    protected Location(int locationId, String locationTitle, String locationImgLink, String locationStory) {
+    public Location() { }
+
+    public Location(int locationId, String locationTitle, String locationImgLink, String locationStory) {
         this.id = locationId;
         this.title = locationTitle;
         this.imgLink = locationImgLink;
         this.story = locationStory;
         this.choices = this.getChoicesForLocation();
+    }
+
+    public Location(String locationTitle, String locationImgLink, String locationStory) {
+        this.title = locationTitle;
+        this.imgLink = locationImgLink;
+        this.story = locationStory;
     }
 }

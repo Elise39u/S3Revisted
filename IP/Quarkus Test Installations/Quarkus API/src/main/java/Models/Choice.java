@@ -22,6 +22,8 @@ public class Choice {
         return choiceName;
     }
 
+    public Choice() {   }
+
     public Choice(int id, int fromLocationId, int toLocationId, String choiceName) {
         this.id = id;
         this.fromLocationId = fromLocationId;
