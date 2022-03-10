@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "1f1864b99daf0a7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c4e2794485e8c59",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ResearchCD.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f0a51013df83c28",
+    "type": "split",
+    "children": [
+      {
+        "id": "353d4af88676bf8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4185152cf2105d42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "117cf2baf7e7f2ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0aa7550f05b101f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4724381d60fa1bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cac4c210ff1ea5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ResearchCD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7c4e2794485e8c59",
+  "lastOpenFiles": [
+    "ResearchCD.md",
+    "What is defined as Continus Delivery.md",
+    "What is defined as Continus Deployment.md",
+    "Pasted image 20220310094942.png",
+    "ResearchDocCD.md"
+  ]
+}

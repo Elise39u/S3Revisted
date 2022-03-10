@@ -35,13 +35,13 @@ public class ChoiceResource {
     }
 
     @POST
-    @Path("/Add/?={fromLocationId}?={toLocationId}?={choiceName}")
+    @Path("/Add/?fromLocationId={fromLocationId}&toLocationId={toLocationId}&choiceName={choiceName}")
     public String AddChoice(int fromLocationId, int toLocationId, String choiceName) {
         throw new NotImplementedYetException();
     }
 
     @PUT
-    @Path("Update/?={choiceId}?={choiceTitle}")
+    @Path("UpdateChoiceName/?choiceId={choiceId}&choiceTitle={choiceTitle}")
     public Choice UpdateChoice(int choiceId, String choiceTitle) {
         throw new NotImplementedYetException();
     }

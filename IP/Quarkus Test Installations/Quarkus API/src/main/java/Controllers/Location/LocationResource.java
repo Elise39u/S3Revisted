@@ -32,14 +32,14 @@ public class LocationResource {
     }
 
     @PUT
-    @Path("UpdateLocation/?={locationId}?={locationTitle}?={locationImgLink}?={locationStory}")
+    @Path("UpdateLocation/?locationId={locationId}&locationTitle={locationTitle}&locationImgLink={locationImgLink}&locationStory={locationStory}")
     public Location updateLocation(int locationId, String locationTitle, String locationImgLink,
                                    String locationStory) {
         throw new NotImplementedYetException();
     }
 
     @POST
-    @Path("Add/?={locationTitle}?={locationImgLink}?={locationStory}")
+    @Path("Add/?locationTitle={locationTitle}&locationImgLink={locationImgLink}&locationStory={locationStory}")
     public String addLocation(String locationTitle, String locationImgLink, String locationStory) {
         throw new NotImplementedYetException();
     }
