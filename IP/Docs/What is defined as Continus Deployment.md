@@ -20,4 +20,6 @@ So we have developed what an Delivery and Deployment is. In the preivous chapter
 ![[Pasted image 20220316101907.png]]
 The big difference in an Deployment pipeline is that the whole process is automated. From uploading it to the repo and testing the build. Testing the automated process. Even up to deployment this where its different. Instead of deploying it to a test/production envoriment. Its straight deployed to the customer. 
 
-So you think why would you do this? well there are some pros and cons to both of the CDS
+So you think why would you do this? well there are some pros and cons to both of the CDS. This is where the next set of sub questions is gonna be answerd. From here i recommend reading futher in the next chapter
+
+[[Pros and Cons of Continus Delivery]]
