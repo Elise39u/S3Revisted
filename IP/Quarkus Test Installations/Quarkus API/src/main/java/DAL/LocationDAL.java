@@ -53,6 +53,7 @@ public class LocationDAL {
             locationChoices.add(new Choice(1, 1, 2, "To the bedroom"));
             locationChoices.add(new Choice(2, 1, 3, "To the Kitchen"));
             locationChoices.add(new Choice(3, 1, 4, "To the Garden"));
+            locationChoices.add(new Choice(4, 1, 5, "To the lobby"));
         }
 
         return locationChoices;
