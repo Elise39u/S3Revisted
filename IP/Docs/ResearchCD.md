@@ -19,6 +19,8 @@ In this we will look at an few differen topics like:  <br>
 ## Readers Guide
 No special reading guide required. But its recommend to read [[What is defined as Continus Delivery]] before [[What is defined as Continus Deployment]]. Reason for this is that Deployment goes further on the point where Delivery left.
 
+Also it recommend to read [[Pros and Cons of Continus Delivery]] before you read [[Pros and Cons of Continus Deployment]] This is because both subjects share the same Pros and cons but their are an few difference between them.
+
 ## Links to other Notes 
 [[What is defined as Continus Delivery||Defined Continus Delivery]]
 [[What is defined as Continus Deployment||Defined Continus Deployment]]
