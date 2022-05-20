@@ -1,5 +1,6 @@
 # S3Revisted
-An repo for my school projects in s3 from sping 2022 - summer 2022
+An repo for my school projects in s3 from sping 2022 - summer 2022  
+Additional repo used: https://github.com/justinvandelaar/LaravelAvontuur
 
 # IP 
 This folder will contain all the projects made for the ip course.
