@@ -27,7 +27,7 @@ For this Learning outcome i want to use the following links:
 For this Learning outcome i want to use the following links:  
 [Building steps for CI Java backend](https://github.com/justinvandelaar/S3Revisted/runs/6468156683?check_suite_focus=true)  
 [Link to CI Pipeline Java backend](https://github.com/justinvandelaar/S3Revisted/tree/main/.github/workflows)  
-[CD Research](https://github.com/justinvandelaar/S3Revisted/tree/main/IP/Docs) Markdown research made in program called obsidan
+[CD Research](https://github.com/justinvandelaar/S3Revisted/tree/main/IP/Docs) (Markdown research made in program called obsidan)
 
 ## L4 You act in a professional manner during software development and learning.
 
