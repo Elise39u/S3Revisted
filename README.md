@@ -14,11 +14,20 @@ An detailed descrption will be followed
 
 # LO IP 
 
-## L1 You design and build user-friendly, full-stack web applications.
+## L1 You design and build user-friendly, full-stack web applications.  
+For this Learning outcome i want to use the following links:  
+[Java BE projects](https://github.com/justinvandelaar/S3Revisted/tree/main/IP/Quarkus%20Test%20Installations)  
+[Vue FE Projects](https://github.com/justinvandelaar/S3Revisted/tree/main/IP/Vue%20test)
+[Old Laravel Clickgame Project](https://github.com/justinvandelaar/LaravelAvontuur)
+[Python Discord Bot hosted on Replit](https://github.com/justinvandelaar/Discord-Bot)
 
 ## L2 You use software tooling and methodology that continuously monitors and improve the software quality during software development
 
-## L3 You design and implement a (semi)automated software release process that matches the needs of the project context.
+## L3 You design and implement a (semi)automated software release process that matches the needs of the project context.  
+For this Learning outcome i want to use the following links:  
+[Building steps for CI Java backend](https://github.com/justinvandelaar/S3Revisted/runs/6468156683?check_suite_focus=true)  
+[Link to CI Pipeline Java backend](https://github.com/justinvandelaar/S3Revisted/tree/main/.github/workflows)  
+[CD Research](https://github.com/justinvandelaar/S3Revisted/tree/main/IP/Docs)
 
 ## L4 You act in a professional manner during software development and learning.
 
