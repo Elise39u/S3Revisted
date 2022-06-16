@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275
   },
   "right": {
     "id": "b0aa7550f05b101f",
@@ -91,13 +91,13 @@
   "lastOpenFiles": [
     "What do professional software companies to achieve Continus delivery or deployment.md",
     "ResearchCD.md",
+    "What is defined as Continus Deployment.md",
+    "What is defined as Continus Delivery.md",
     "What for effect has Continus delivery or deployment on the software architecture.md",
     "Pasted image 20220323111109.png",
     "Pros and Cons of Continus Deployment.md",
     "Pros and Cons of Continus Delivery.md",
     "Pasted image 20220323093107.png",
-    "Pasted image 20220323092710.png",
-    "What is defined as Continus Delivery.md",
-    "What is defined as Continus Deployment.md"
+    "Pasted image 20220323092710.png"
   ]
 }
